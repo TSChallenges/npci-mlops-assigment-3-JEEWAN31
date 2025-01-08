@@ -1,1 +1,4 @@
-# add required dependencies 
+flask==2.2.5
+pandas==1.5.3
+numpy==1.24.3
+gradio==4.10.0
